@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CarRentalSystem.Application.Tests/CarRentalSystem.Application.Tests.csproj" Id="bc961dd0-a77e-48a6-bdd9-70d1fb107fce" />
+  <Project Path="CarRentalSystem.Application/CarRentalSystem.Application.csproj" />
+  <Project Path="CarRentalSystem.Domain/CarRentalSystem.Domain.csproj" />
+  <Project Path="CarRentalSystem.Infrastructure/CarRentalSystem.Infrastructure.csproj" />
+  <Project Path="CarRentalSystem.Api/CarRentalSystem.Api.csproj" />
+</Solution>
